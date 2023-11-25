@@ -1,0 +1,10 @@
+Login : http://localhost/KarizmaGroup/login.php
+Creation Utilisateur : http://localhost/KarizmaGroup/user.php
+Creation Recette :http://localhost/KarizmaGroup/recepies_list.php
+Visualiser liste des recettes:http://localhost/KarizmaGroup/recepies.php
+
+
+
+
+Nom utilisateur : test
+Mot de passe : test
